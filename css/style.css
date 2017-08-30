@@ -1,0 +1,18 @@
+.page-header{
+	height: 120px;
+}
+.content{
+	background: #ffffff;
+	padding-top: 18px;
+}
+.footer{
+	
+	background: #595959;	
+}
+.dasar{
+	background: #5f5c5c;
+}
+.dasar a:hover{
+	
+	color: #ffffff;
+}
